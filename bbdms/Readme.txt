@@ -19,6 +19,6 @@ Username: admin
 Password: 1234
 
 **************************Donor Credential**********************
-Username: pushpa@gmail.com
-Password: 12345
+Username: example@gmail.com
+Password: example
 Or Register a new user.
